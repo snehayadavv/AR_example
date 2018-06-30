@@ -1,3 +1,12 @@
 # AR_example
 
+Wish your friend Happy Birthday using Augmented Reality .
+
+To preview this example just follow these steps :)
+
+STEP 1: <a href="https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg">Open Me in your Laptop Browser</a><br><br>
+STEP 2: <a href="https://codepen.io/snehayadavv/full/zaexgV/">Open Me in your Phone Browser</a>
+
+
+
 ![](image/ss5.jpeg)
