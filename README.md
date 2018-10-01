@@ -18,3 +18,5 @@ This is only for learning purpose
 
 `Source `
 <a href="https://github.com/jeromeetienne/AR.js/">Github Link</a><br><br>
+
+for learning purpose only
